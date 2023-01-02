@@ -8,11 +8,11 @@ Happy Coding 🤗😎
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Company 1 : 😎😎 Microsoft 😎😎
-Q1 : https://leetcode.com/problems/evaluate-reverse-polish-notation/
-Q2 : https://leetcode.com/problems/combination-sum-iii/
-Q3 : https://leetcode.com/problems/bulls-and-cows/
-
-Q4 : https://leetcode.com/problems/rotate-function/
-Q5 : https://leetcode.com/problems/largest-divisible-subset/
-Q6 : https://leetcode.com/problems/perfect-rectangle/
+Company 1 : 😎😎 Microsoft 😎😎 <br>
+Q1 : https://leetcode.com/problems/evaluate-reverse-polish-notation/ <br>
+Q2 : https://leetcode.com/problems/combination-sum-iii/<br>
+Q3 : https://leetcode.com/problems/bulls-and-cows/<br>
+<br>
+Q4 : https://leetcode.com/problems/rotate-function/<br>
+Q5 : https://leetcode.com/problems/largest-divisible-subset/ <br>
+Q6 : https://leetcode.com/problems/perfect-rectangle/ <br>
