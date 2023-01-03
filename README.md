@@ -16,3 +16,8 @@ Q3 : https://leetcode.com/problems/bulls-and-cows/<br>
 Q4 : https://leetcode.com/problems/rotate-function/<br>
 Q5 : https://leetcode.com/problems/largest-divisible-subset/ <br>
 Q6 : https://leetcode.com/problems/perfect-rectangle/ <br>
+<br>
+Q7 : https://leetcode.com/problems/course-schedule/ <br>
+Q8 : https://leetcode.com/problems/most-profitable-path-in-a-tree/ <br>
+Q9 : https://leetcode.com/problems/number-of-pairs-satisfying-inequality/ <br>
+<br>
