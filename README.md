@@ -19,7 +19,7 @@ Q6 : https://leetcode.com/problems/perfect-rectangle/ <br>
 <br>
 Q7 : https://leetcode.com/problems/course-schedule/ <br>
 Q8 : https://leetcode.com/problems/most-profitable-path-in-a-tree/ <br>
-Q9 : https://leetcode.com/problems/number-of-pairs-satisfy <ing-inequality/ <br>
+Q9 : https://leetcode.com/problems/number-of-pairs-satisfy  <br>
 <br>
 Q10 : https://leetcode.com/problems/longest-happy-prefix/ <br>
 Q11 : https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/ <br>
