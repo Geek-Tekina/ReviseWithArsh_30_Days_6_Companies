@@ -25,3 +25,8 @@ Q10 : https://leetcode.com/problems/longest-happy-prefix/ <br>
 Q11 : https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/ <br>
 Q12 : https://leetcode.com/problems/shortest-unsorted-continuous-subarray/ <br>
 <br>
+Q13 : https://leetcode.com/problems/airplane-seat-assignment-probability/ <br>
+Q14 : https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/ <br>
+Q15 : https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/ <br>
+<br>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
