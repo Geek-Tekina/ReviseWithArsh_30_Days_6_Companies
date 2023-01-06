@@ -6,9 +6,10 @@ I will update the readme file each day with question links !!
 
 Happy Coding 🤗😎
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Company 1 : 😎😎 Microsoft 😎😎 <br>
+<br>
 Q1 : https://leetcode.com/problems/evaluate-reverse-polish-notation/ <br>
 Q2 : https://leetcode.com/problems/combination-sum-iii/<br>
 Q3 : https://leetcode.com/problems/bulls-and-cows/<br>
@@ -29,4 +30,9 @@ Q13 : https://leetcode.com/problems/airplane-seat-assignment-probability/ <br>
 Q14 : https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/ <br>
 Q15 : https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/ <br>
 <br>
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Company 2 : 😎😎 Goldman Sachs 😎😎 <br>
+<br>
+Q1 : https://leetcode.com/problems/max-points-on-a-line/ <br>
+Q2 : https://leetcode.com/problems/valid-square/ <br>
+Q3 : https://leetcode.com/problems/factorial-trailing-zeroes/ <br>
+<br>
