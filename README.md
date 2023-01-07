@@ -36,3 +36,7 @@ Q1 : https://leetcode.com/problems/max-points-on-a-line/ <br>
 Q2 : https://leetcode.com/problems/valid-square/ <br>
 Q3 : https://leetcode.com/problems/factorial-trailing-zeroes/ <br>
 <br>
+Q4 : https://leetcode.com/problems/number-of-boomerangs/ <br>
+Q5 : https://leetcode.com/problems/split-array-into-consecutive-subsequences/ <br>
+Q6 : https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/ <br>
+<br>
