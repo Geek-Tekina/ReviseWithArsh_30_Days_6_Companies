@@ -40,3 +40,7 @@ Q4 : https://leetcode.com/problems/number-of-boomerangs/ <br>
 Q5 : https://leetcode.com/problems/split-array-into-consecutive-subsequences/ <br>
 Q6 : https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/ <br>
 <br>
+Q7 : https://leetcode.com/problems/count-good-triplets-in-an-array/submissions/ <br>
+Q8 : https://leetcode.com/problems/maximum-points-in-an-archery-competition/ <br>
+Q9 : https://leetcode.com/problems/ipo/ <br>
+<br>
