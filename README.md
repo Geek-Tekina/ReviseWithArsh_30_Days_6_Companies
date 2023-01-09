@@ -44,3 +44,7 @@ Q7 : https://leetcode.com/problems/count-good-triplets-in-an-array/submissions/ 
 Q8 : https://leetcode.com/problems/maximum-points-in-an-archery-competition/ <br>
 Q9 : https://leetcode.com/problems/ipo/ <br>
 <br>
+Q10 : https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/ <br>
+Q11 : https://leetcode.com/problems/invalid-transactions/description/ <br>
+Q12 : https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/ <br>
+<br>
