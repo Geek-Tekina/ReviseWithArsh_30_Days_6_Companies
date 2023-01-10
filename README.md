@@ -48,3 +48,7 @@ Q10 : https://leetcode.com/problems/number-of-people-aware-of-a-secret/descripti
 Q11 : https://leetcode.com/problems/invalid-transactions/description/ <br>
 Q12 : https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/ <br>
 <br>
+Q13 : https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/ <br>
+Q14 : https://leetcode.com/problems/count-nice-pairs-in-an-array/description/ <br>
+Q15 : https://leetcode.com/problems/maximum-good-people-based-on-statements/description/ <br>
+<br>
