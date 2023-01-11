@@ -52,3 +52,10 @@ Q13 : https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/des
 Q14 : https://leetcode.com/problems/count-nice-pairs-in-an-array/description/ <br>
 Q15 : https://leetcode.com/problems/maximum-good-people-based-on-statements/description/ <br>
 <br>
+Company 3 : 😎😎 Adobe 😎😎 <br>
+<br>
+Q1 : https://leetcode.com/problems/fraction-to-recurring-decimal/ <br>
+Q2 : https://leetcode.com/problems/increasing-triplet-subsequence/description/ <br>
+Q3 : https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/ <br>
+<br>
+
