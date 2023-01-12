@@ -58,4 +58,8 @@ Q1 : https://leetcode.com/problems/fraction-to-recurring-decimal/ <br>
 Q2 : https://leetcode.com/problems/increasing-triplet-subsequence/description/ <br>
 Q3 : https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/ <br>
 <br>
+Q4 : https://leetcode.com/problems/magical-string/ <br>
+Q5 : https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/ <br>
+Q6 : https://leetcode.com/problems/knight-probability-in-chessboard/ <br>
+<br>
 
