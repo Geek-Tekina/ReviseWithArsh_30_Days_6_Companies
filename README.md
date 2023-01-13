@@ -62,4 +62,8 @@ Q4 : https://leetcode.com/problems/magical-string/ <br>
 Q5 : https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/ <br>
 Q6 : https://leetcode.com/problems/knight-probability-in-chessboard/ <br>
 <br>
+Q7 : https://leetcode.com/problems/number-of-matching-subsequences/ <br>
+Q8 : https://leetcode.com/problems/minimum-genetic-mutation/ <br>
+Q9 :https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/ <br>
+<br>
 
