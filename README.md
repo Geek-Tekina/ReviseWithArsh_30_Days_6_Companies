@@ -66,4 +66,12 @@ Q7 : https://leetcode.com/problems/number-of-matching-subsequences/ <br>
 Q8 : https://leetcode.com/problems/minimum-genetic-mutation/ <br>
 Q9 :https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/ <br>
 <br>
+Q10 : https://leetcode.com/problems/maximum-matrix-sum/ <br>
+Q11 : https://leetcode.com/problems/stock-price-fluctuation/ <br>
+Q12 : https://leetcode.com/problems/shortest-unsorted-continuous-subarray/ <br>
+<br>
+Q13: https://leetcode.com/problems/dungeon-game/ <br>
+Q14 : https://leetcode.com/problems/number-of-people-aware-of-a-secret/ <br>
+Q15 : https://leetcode.com/problems/query-kth-smallest-trimmed-number/ <br>
+<br>
 
