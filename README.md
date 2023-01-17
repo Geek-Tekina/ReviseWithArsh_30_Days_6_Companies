@@ -74,4 +74,14 @@ Q13: https://leetcode.com/problems/dungeon-game/ <br>
 Q14 : https://leetcode.com/problems/number-of-people-aware-of-a-secret/ <br>
 Q15 : https://leetcode.com/problems/query-kth-smallest-trimmed-number/ <br>
 <br>
+Company 4 : 😎😎 Flipkart 😎😎 <br>
+<br>
+Q1 : https://leetcode.com/problems/partition-to-k-equal-sum-subsets/ <br>
+Q2 : https://leetcode.com/problems/shopping-offers/ <br>
+Q3 : https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/ <br>
+<br>
+Q4 : https://leetcode.com/problems/find-the-winner-of-the-circular-game/ <br>
+Q5 : https://leetcode.com/problems/find-in-mountain-array/<br>
+Q6 : https://leetcode.com/problems/number-of-ways-to-separate-numbers/<br>
+<br>
 
